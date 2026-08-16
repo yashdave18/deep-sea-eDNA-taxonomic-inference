@@ -1,0 +1,24 @@
+# environment secrets
+.env
+backend/.env
+frontend/.env
+
+# node
+node_modules/
+frontend/dist/
+frontend/build/
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# model artifacts (if large)
+model_artifacts/
+*.faiss
+*.index
+
+# OS/editor junk
+.DS_Store
+.vscode/

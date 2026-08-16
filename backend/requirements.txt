@@ -1,0 +1,14 @@
+biopython
+numpy
+faiss-cpu
+umap-learn
+hdbscan
+torch
+transformers
+peft
+fastapi
+uvicorn[standard]
+python-multipart
+supabase
+pydantic-settings
+PyJWT[crypto]
